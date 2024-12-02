@@ -143,19 +143,7 @@ The system follows a **3-tier architecture**:
    ```  
 
 4. Open your browser at `http://localhost:5173`.  
-
----
-
-## 🖼 Screenshots  
-
-### Login Page  
-_Add a screenshot here._  
-
-### Job Listings  
-_Add a screenshot here._  
-
-### Application Management  
-_Add a screenshot here._  
+ 
 
 ---
 
