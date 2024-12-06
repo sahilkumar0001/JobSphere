@@ -129,7 +129,7 @@ The system follows a **3-tier architecture**:
 ### Frontend Setup:  
 1. Navigate to the frontend folder:  
    ```bash  
-   cd frontend  
+   cd jobsphere  
    ```  
 
 2. Install dependencies:  
